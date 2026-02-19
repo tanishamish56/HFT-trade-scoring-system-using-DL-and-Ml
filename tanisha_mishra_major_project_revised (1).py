@@ -26,7 +26,6 @@ from datetime import datetime
 
 import lightgbm as lgb
 import joblib, shap
-!pip install --quiet optuna
 import optuna
 
 import warnings
