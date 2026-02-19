@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1QKXjqLKLX9S8w7msW7p2ZvNKmjczWNfz
 """
 
-!pip install --quiet lazypredict
 
 import numpy as np, pandas as pd
 import matplotlib.pyplot as plt
