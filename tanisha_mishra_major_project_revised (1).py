@@ -8,6 +8,9 @@ Original file is located at
 """
 
 
+with open('requirements.txt', 'r') as f:
+    print('--- Copy the text below into your requirements.txt file ---')
+    print(f.read())
 import numpy as np, pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
